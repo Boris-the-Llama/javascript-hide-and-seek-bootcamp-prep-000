@@ -13,3 +13,5 @@ function increaseRankBy(n) {
    toInc[i].innerHTML = num + 1;
  }
 }
+
+function 
